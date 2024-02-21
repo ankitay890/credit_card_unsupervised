@@ -20,11 +20,11 @@ Given the ‘credit_card’ dataset, below is the data definition:
 18) TENURE: Tenure of credit card service for user
 
 
-1. Perform EDA on the given data. What does the primary analysis of several categorical features reveal?
-2. Perform the following Exploratory Data Analysis tasks:
-a. Missing Value Analysis
-b. Outlier Treatment using the Z-score method
-c. Deal with correlated variables
-3. Perform dimensionality reduction using PCA such that the 95% of the variance is explained
-4. Find the optimum value of k for k-means clustering using the elbow method. Plot the elbow curve
-5. Find the optimum value of k for k-means clustering using the silhouette score method. Build a K-means clustering model and specify the number of observations in each cluster using a bar plot
+* Perform EDA on the given data. What does the primary analysis of several categorical features reveal?
+* Perform the following Exploratory Data Analysis tasks:
+* Missing Value Analysis
+* Outlier Treatment using the Z-score method
+* Deal with correlated variables
+* Perform dimensionality reduction using PCA such that the 95% of the variance is explained
+* Find the optimum value of k for k-means clustering using the elbow method. Plot the elbow curve
+* Find the optimum value of k for k-means clustering using the silhouette score method. Build a K-means clustering model and specify the number of observations in each cluster using a bar plot
